@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/二叉搜索树_BST" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/平衡二叉搜索树_AVL树" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/数组_Array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/栈_Stack" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/链表_LinkedList" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/队列_Queue" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/红黑树_Red Black Tree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/二叉搜索树_BST/哈希表_Hash Table" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
